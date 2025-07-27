@@ -3,7 +3,7 @@
 
 ![IMG_20250727_183432](https://github.com/user-attachments/assets/d3fe4dba-8645-450b-af51-491c494197a4)
 
-Open Source andotrope I made.
+Open Source andotrope I made, for anyone that wants to build their own andotrope.
 Credit to the idea of an andotrope goes to Mike Ando https://www.riumplus.com/gehns-holographic-imager-andotrope/
 I came up with the method of creating the see through effect.
 
