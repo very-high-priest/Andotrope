@@ -1,4 +1,8 @@
 # Andotrope
+<img width="693" height="642" alt="afbeelding" src="https://github.com/user-attachments/assets/9265e5a2-7fa5-4903-844b-f7072b63b8f6" />
+
+![IMG_20250727_183432](https://github.com/user-attachments/assets/d3fe4dba-8645-450b-af51-491c494197a4)
+
 The first prototype andotrope I built. 
 Credit to the idea of an andotrope goes to https://www.riumplus.com/gehns-holographic-imager-andotrope/
 
