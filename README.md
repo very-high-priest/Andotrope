@@ -3,10 +3,11 @@
 
 ![IMG_20250727_183432](https://github.com/user-attachments/assets/d3fe4dba-8645-450b-af51-491c494197a4)
 
-The first prototype andotrope I built. 
-Credit to the idea of an andotrope goes to https://www.riumplus.com/gehns-holographic-imager-andotrope/
+Open Source andotrope I made.
+Credit to the idea of an andotrope goes to Mike Ando https://www.riumplus.com/gehns-holographic-imager-andotrope/
+I came up with the method of creating the see through effect.
 
-This is just a prototype and certain things don't work properly yet.
+This is just a prototype and certain things don't work properly yet, please read the issues.
 
 We use a rp2040 zero as the main microcontroller.
 
